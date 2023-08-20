@@ -1,16 +1,19 @@
 .container{
-    display: flex;
-    justify-content: center;
-    /* background-color: gold */
+   margin: 0;
+   padding: 0;
+  
 
 }
 .layoutcontainer{
-    max-width: 800px;
-    /* background-color: brown; */
+    margin: 0;
+    padding: 0;
+    
 }
 
 .children{
-    /* background-color: blue; */
+    max-width: 800px;
+    padding: 1rem 0;
+    margin: auto;
 }
 
 .navbarcontainer{
@@ -19,7 +22,6 @@
     align-items: center;
     background-color: #000;
     color: #dadada;
-    
 }
 
 .ecommercebutton{

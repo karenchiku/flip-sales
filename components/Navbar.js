@@ -7,7 +7,7 @@ export default function Navbar() {
 
         <div className={styles.navbarcontainer}>
             <div className={styles.textcontrainer}>
-                <h1>Flipsales</h1>
+                <h1>BestDeals Website</h1>
                 <p>{today}</p>
             </div>
         </div>

@@ -47,7 +47,7 @@ export default function Home() {
     <Layout>
       <div className={styles.ecommercebutton}>
           <button className={styles.primary} onClick={getBestDeal}>Amazon</button>
-          <button className={styles.primary} onClick={getnewDeals}>newAmazon</button>
+          <button className={styles.primary} >eBay</button>
           <button className={styles.primary} disabled>Etsy</button>
       </div>
 
